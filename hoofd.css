@@ -1,0 +1,48 @@
+body {
+	width: 100%
+	height: auto;
+	display: flex;
+	justify-content: center;
+}
+
+div {
+	width: 50%;
+	height: 100%
+}
+
+h1{
+	font-family: 'Roboto', sans-serif; line-height: 36px;
+}
+div{
+	align-content:center;
+	margin-top:30px;
+	margin-left:300px; 
+	margin-right:300px;
+}
+.p1{
+	font-family: 'Roboto', sans-serif;
+}
+li{
+	font-family: 'Roboto', sans-serif; line-height: 20px;
+}
+.H{
+	font-family: 'Roboto', sans-serif;
+}
+.tip{
+	background-color:#def6ed;
+	padding: 25px;
+	border-radius: 4px;
+}
+img {
+    display: block;
+    margin-right: auto;
+}
+button{
+	font-family: 'Roboto', sans-serif;	
+	font-weight: bolder;
+	border-radius: 3px;
+	padding: 12px;
+	font-size: 15px;
+	border-color: solid black;
+}
+.B:hover {background-color: #CCCCCC}
